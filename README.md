@@ -13,7 +13,7 @@
 
 | Avatar | Name         | Role                         | Bio                              |
 |--------|--------------|------------------------------|----------------------------------|
-| ![Avatar](https://via.placeholder.com/100) | **Hushu** | Fondator      | Passionate about coding and mentoring others. |
+| ![Avatar](https://via.placeholder.com/100) | <a href="https://github.com/Hushhhy">**Hushy**</a> | Fondator      | Passionate about coding and mentoring others. |
 
 ---
 
