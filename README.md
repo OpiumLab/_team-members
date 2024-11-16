@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h3 align="center">
-  <samp>&gt; Meet the <b>ØpiùmLab Team</b> 🌟</samp>
+  <samp>&gt; Meet the <b>ØpiùmLab Team</b> 👨‍👨‍👦‍👦</samp>
 </h3>
 
 <p align="center">
