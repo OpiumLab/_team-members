@@ -13,7 +13,7 @@
 
 | Avatar | Name         | Role                         | Bio                              |
 |--------|--------------|------------------------------|----------------------------------|
-| ![Avatar](file:///C:/Users/carpe/Downloads/8041e504aa975af959aa11dfc50e4267-100x100.jpg) | <a href="https://github.com/Hushhhy">**Hushy**</a> | Fondator      | Passionate about coding and mentoring others. |
+| ![Avatar](https://github.com/OpiumLab/_team-members/blob/main/_Avatar/8041e504aa975af959aa11dfc50e4267-100x100.jpg) | <a href="https://github.com/Hushhhy">**Hushy**</a> | Fondator      | Passionate about coding and mentoring others. |
 
 ---
 
